@@ -1,2 +1,3 @@
 # Kasper
-I've created this template using HTML &amp; CSS. I used my knowledge in order to accomplished it, i've faced some challenges but with them i've improved my skills in frontend development.
+I've created this template using HTML &amp; CSS. In this template, I applied different techniques like Grid & FlexBox just to show my skills in frontend development.
+This template is freely available for anyone who needs it.
